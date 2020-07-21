@@ -1,4 +1,4 @@
-# Hadoop Multinode Cluster Docker Image
+# Dockerize Hadoop Multinode Cluster
 
 ## Description
 This repository prepared for create hadoop multinode cluster within docker container as automatically.
